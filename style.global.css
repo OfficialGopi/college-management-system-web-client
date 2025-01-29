@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  outline: none;
+}
+
+#navlinks .active {
+  opacity: 1;
+  transform: scale(1.2);
+  background: #010a11d3;
+  border-radius: 10px;
+  overflow: hidden;
+  color: white;
+}

@@ -1,0 +1,11 @@
+18/01/2025
+    /check with backend and manage /2hr
+    -->connect with backend
+
+19/01/2025
+    -->connect with backend /3hr
+    make all pop up and dialogs and toasts /40min
+    check
+    lazy loading in all /30min
+    deploy
+    github
